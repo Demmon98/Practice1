@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UndergroundLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>newItem</Name>
+  <Stations>
+    <Station>
+      <Name>default</Name>
+      <SomeProp1>1</SomeProp1>
+      <SomeProp2>2</SomeProp2>
+    </Station>
+    <Station>
+      <Name>default</Name>
+      <SomeProp1>1</SomeProp1>
+      <SomeProp2>2</SomeProp2>
+    </Station>
+    <Station>
+      <Name>default</Name>
+      <SomeProp1>1</SomeProp1>
+      <SomeProp2>2</SomeProp2>
+    </Station>
+    <Station>
+      <Name>default</Name>
+      <SomeProp1>1</SomeProp1>
+      <SomeProp2>2</SomeProp2>
+    </Station>
+  </Stations>
+  <SomeProp>1</SomeProp>
+</UndergroundLine>
